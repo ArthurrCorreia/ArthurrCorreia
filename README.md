@@ -1,23 +1,19 @@
-<p align="center">
-  <img src="assets/hero.svg" width="840" alt="Terminal-inspired banner: build, investigate, protect." />
-</p>
+<h1>Arthur Correia de Barros Silva</h1>
 
-<h1 align="center">Arthur Correia de Barros Silva</h1>
-
-<p align="center">
+<p>
   <strong>Cybersecurity Student | Offensive &amp; Defensive Security | Secure Software Development</strong>
 </p>
 
-<p align="center">Building software. Understanding threats. Learning to secure systems.</p>
+<p>Building software. Understanding threats. Learning to secure systems.</p>
 
 ### Languages I study & practice
 
 <p>
-  <img src="assets/python.svg" width="112" height="64" alt="Python" />
-  <img src="assets/c.svg" width="112" height="64" alt="C" />
-  <img src="assets/cpp.svg" width="112" height="64" alt="C++" />
-  <img src="assets/java.svg" width="112" height="64" alt="Java" />
-  <img src="assets/javascript.svg" width="112" height="64" alt="JavaScript" />
+  <img src="assets/python.svg" width="48" height="48" alt="Python" title="Python" />&nbsp;
+  <img src="assets/c.svg" width="48" height="48" alt="C" title="C" />&nbsp;
+  <img src="assets/cpp.svg" width="48" height="48" alt="C++" title="C++" />&nbsp;
+  <img src="assets/java.svg" width="48" height="48" alt="Java" title="Java" />&nbsp;
+  <img src="assets/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
 </p>
 
 **Project stack** · TypeScript, Angular, Ionic, HTML/CSS  
@@ -67,5 +63,13 @@ Browser-based service queue application with ticket issuance, a call display, an
 ## Connect
 
 <a href="https://github.com/ArthurrCorreia">
-  <img src="assets/github.svg" width="236" height="48" alt="Visit @ArthurrCorreia on GitHub" />
+  <img src="assets/github.svg" width="96" height="28" alt="Visit @ArthurrCorreia on GitHub" />
 </a>
+<a href="https://www.linkedin.com/in/arthur-correia-7ba6a2365">
+  <img src="assets/linkedin.svg" width="92" height="28" alt="Connect with Arthur Correia on LinkedIn" />
+</a>
+<a href="mailto:correiaarthurdebarros@gmail.com">
+  <img src="assets/gmail.svg" width="88" height="28" alt="Email Arthur Correia at correiaarthurdebarros@gmail.com" />
+</a>
+
+---
